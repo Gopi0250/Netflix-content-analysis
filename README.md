@@ -24,7 +24,7 @@ End-to-end data analytics project analyzing 8,800+ Netflix titles across 88 coun
 ## 📊 Visualizations
 
 ### Executive Dashboard
-![Dashboard](visuals/dashboard_page1.png?raw=true)
+![Dashboard](05_visuals/01_content_type_split.png)
 
 ### Content Type Split
 ![Content](visuals/01_content_type_split.png?raw=true)
