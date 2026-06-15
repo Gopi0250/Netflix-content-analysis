@@ -24,37 +24,37 @@ End-to-end data analytics project analyzing 8,800+ Netflix titles across 88 coun
 ## 📊 Visualizations
 
 ### Executive Dashboard
-![Dashboard](visuals/dashboard_page1.png)
+![Dashboard](visuals/dashboard_page1.png?raw=true)
 
 ### Content Type Split
-![Content](visuals/01_content_type_split.png)
+![Content](visuals/01_content_type_split.png?raw=true)
 
 ### Yearly Trend
-![Yearly](visuals/02_content_per_year.png)
+![Yearly](visuals/02_content_per_year.png?raw=true)
 
 ### Top Countries
-![Countries](visuals/03_top_countries.png)
+![Countries](visuals/03_top_countries.png?raw=true)
 
 ### Top Genres
-![Genres](visuals/04_top_genres.png)
+![Genres](visuals/04_top_genres.png?raw=true)
 
 ### Rating Distribution
-![Ratings](visuals/05_rating_distribution.png)
+![Ratings](visuals/05_rating_distribution.png?raw=true)
 
 ### Movie Duration Trend
-![Duration](visuals/06_movie_duration_trend.png)
+![Duration](visuals/06_movie_duration_trend.png?raw=true)
 
 ### Monthly Pattern
-![Monthly](visuals/07_monthly_pattern.png)
+![Monthly](visuals/07_monthly_pattern.png?raw=true)
 
 ### Content Freshness
-![Freshness](visuals/08_content_freshness.png)
+![Freshness](visuals/08_content_freshness.png?raw=true)
 
 ### TV Seasons
-![Seasons](visuals/09_tv_seasons.png)
+![Seasons](visuals/09_tv_seasons.png?raw=true)
 
 ### KPI Summary
-![KPI](visuals/10_kpi_summary.png)
+![KPI](visuals/10_kpi_summary.png?raw=true)
 
 ## 💡 Top 5 Recommendations
 1. Increase TV Show investment from 30% to 45%
