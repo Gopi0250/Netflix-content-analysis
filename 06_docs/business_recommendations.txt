@@ -1,0 +1,159 @@
+EXECUTIVE SUMMARY
+
+PROJECT: Netflix Content Strategy & Viewership Analysis
+ANALYST: Gopi
+DATE: 15-6-26
+DATASET: 8,804 Netflix titles across 88 countries (1925–2021)
+
+OBJECTIVE:
+Analyze Netflix's content catalog to identify strategic patterns
+and deliver data-driven recommendations to the content team.
+
+KEY FINDINGS SUMMARY:
+✅ Netflix is 70% Movies, 30% TV Shows
+✅ USA dominates with 42% of all content
+✅ International Movies & Dramas are top genres
+✅ 67% of content is Library (older) content
+✅ December & July are peak content addition months
+✅ TV-MA (Adult) content dominates at 38%
+✅ 67% of TV Shows have only 1 season
+✅ Average movie duration is ~100 minutes
+✅ Content additions peaked in 2019 (2,153 titles)
+✅ India is #2 content producer with 972 titles
+
+5 BUSINESS RECOMMENDATIONS
+
+RECOMMENDATION 1 — Invest More in TV Show Production
+FINDING:
+Only 30% of Netflix catalog is TV Shows
+Yet TV Shows drive higher engagement and longer watch time
+67% of TV Shows have only 1 season — most are cancelled early
+
+BUSINESS INSIGHT:
+Netflix is heavily movie-focused but streaming platforms
+globally are winning with serialized TV content.
+Competitors like Amazon Prime and Disney+ are investing
+heavily in multi-season TV series.
+
+RECOMMENDATION:
+Increase TV Show investment from 30% to 45% of new content budget
+Focus on 2-3 season commitments instead of single seasons
+This reduces churn and increases subscriber retention
+
+EXPECTED IMPACT:
+Higher average watch time per subscriber
+Reduced monthly churn rate
+Stronger subscriber loyalty
+
+
+RECOMMENDATION 2 — Expand International Content Beyond USA
+FINDING:
+USA produces 42% of all Netflix content
+India is #2 with only 972 titles (11%)
+88 countries represented but top 3 dominate 65% of catalog
+
+BUSINESS INSIGHT:
+Netflix's fastest growing subscriber base is in
+Asia-Pacific and Latin America markets.
+Local language content drives local subscriptions.
+The success of Money Heist (Spain) and Squid Game (Korea)
+proves international content has global appeal.
+
+RECOMMENDATION:
+Increase content acquisition from Southeast Asia
+(Indonesia, Thailand, Vietnam) by 40%
+Invest in Korean, Turkish, and Nigerian original productions
+Target: Reduce USA content dominance from 42% to 30%
+
+EXPECTED IMPACT:
+Access to 500M+ new potential subscribers
+Reduced content production costs (international = cheaper)
+Global cultural diversity appeals to all subscriber segments
+
+
+RECOMMENDATION 3 — Rebalance Content Rating Strategy
+FINDING:
+38% of content is TV-MA (Adult only)
+Only 12% is Family/Kids content (TV-G, TV-PG, G, PG)
+Family accounts represent 2-3 subscribers per account
+
+BUSINESS INSIGHT:
+Family plan subscribers watch more content per account
+Kids content creates habitual daily viewing patterns
+Disney+ dominates family segment — Netflix is losing here
+
+RECOMMENDATION:
+Increase Family and Kids content from 12% to 25%
+Create more PG and TV-PG rated original content
+Develop animated series targeting 6-12 age group
+
+EXPECTED IMPACT:
+Higher account-level revenue (family plans cost more)
+Reduced churn (families stay subscribed for kids)
+Direct competition with Disney+ in family segment
+
+
+RECOMMENDATION 4 — Optimize Content Release Timing
+FINDING:
+December highest content additions (holiday season)
+July second highest (summer)
+February lowest content additions
+Content drops are inconsistent month to month
+
+BUSINESS INSIGHT:
+Subscribers cancel when there is no new content to watch
+February and May show significant content drought
+Consistent monthly releases maintain subscriber engagement
+
+RECOMMENDATION:
+Implement monthly content release quotas — minimum 400 titles/month
+Increase February releases by 35% (currently lowest)
+Schedule major original releases for Q1 (Jan-Mar)
+to counter post-holiday subscription cancellations
+
+EXPECTED IMPACT:
+Reduced seasonal churn spikes
+More predictable subscriber engagement
+Better content marketing planning
+
+RECOMMENDATION 5 — Convert Library Content to Fresh Originals
+FINDING:
+67% of Netflix content is Library content
+(added more than 1 year after original release)
+Only 33% is Fresh content
+(added within 1 year of release)
+
+BUSINESS INSIGHT:
+Library content is cheap to acquire but has low
+discovery rates — subscribers have often seen it elsewhere
+Netflix Originals (fresh content) drive new subscriptions
+and press coverage that organic content cannot
+
+RECOMMENDATION:
+Shift content acquisition budget:
+Current:  70% Library + 30% Originals
+Target:   45% Library + 55% Originals
+
+Focus originals on underrepresented genres:
+Documentary, Stand-up Comedy, Anime
+
+EXPECTED IMPACT:
+Higher new subscriber acquisition through original buzz
+Premium brand positioning vs competitors
+Press coverage worth millions in free marketing
+
+
+KPI TARGETS SUMMARY TABLE
+╔══════════════════════════════╦══════════════╦══════════════╗
+║ KPI                          ║ Current      ║ Target       ║
+╠══════════════════════════════╬══════════════╬══════════════╣
+║ TV Show % of catalog         ║ 30%          ║ 45%          ║
+║ USA content dominance        ║ 42%          ║ 30%          ║
+║ Family/Kids content %        ║ 12%          ║ 25%          ║
+║ Min monthly content drops    ║ ~380         ║ 400+         ║
+║ Original vs Library ratio    ║ 33/67        ║ 55/45        ║
+║ Countries actively producing ║ 88           ║ 120+         ║
+╚══════════════════════════════╩══════════════╩══════════════╝
+
+
+

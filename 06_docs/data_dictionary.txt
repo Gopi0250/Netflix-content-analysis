@@ -1,0 +1,31 @@
+NETFLIX CONTENT ANALYSIS — DATA DICTIONARY
+==========================================
+Dataset: netflix_titles.csv
+Source: Kaggle (https://www.kaggle.com/datasets/shivamb/netflix-shows)
+Total Records: 8,807
+Total Columns: 12
+Last Updated: 15-06-2026
+
+COLUMNS:
+--------
+1. show_id       → Unique identifier for each title
+2. type          → Content type: "Movie" or "TV Show"
+3. title         → Name of the title
+4. director      → Director name (29.91% missing — mostly TV Shows)
+5. cast          → Main cast members (9.37% missing)
+6. country       → Production country (9.44% missing)
+7. date_added    → Date added to Netflix (needs date conversion)
+8. release_year  → Original release year (1925–2021)
+9. rating        → Content maturity rating (TV-MA, PG-13, etc.)
+10. duration     → Runtime in minutes (Movies) or seasons (TV Shows)
+11. listed_in    → Genre tags (multiple genres comma-separated)
+12. description  → Short plot summary
+
+DATA QUALITY ISSUES IDENTIFIED:
+--------------------------------
+1. director column: 29.91% missing → Will fill with "Unknown"
+2. cast column: 9.37% missing → Will fill with "Unknown"
+3. country column: 9.44% missing → Will fill with "Unknown"
+4. date_added: stored as text → Will convert to proper date format
+5. duration: mixed format → Will split into numeric value + unit
+6. listed_in: multiple genres in one cell → Will handle in analysis
