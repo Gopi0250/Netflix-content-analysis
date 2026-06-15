@@ -52,32 +52,24 @@ than data-driven.
 
 ## 📁 Project Structure
 
+```
 netflix-content-analysis/
-
-├──data/
-|    ─> raw/                    # Original dataset
-|    ─> cleaned/                # Cleaned & processed data
-├──notebooks/
-|
-|    -> 01_data_assessment.ipynb
-|    -> 02_data_cleaning.ipynb
-|    -> 03_eda_visualizations.ipynb
-|
-├──sql/ 
-|    -> netflix_analysis_queries.sql
-|    
-├──dashboard/ 
-|       
-|    -> Netflix_Dashboard.pbix
-|    
-|
-└──visuals/ 
-|
-|     -> All charts & dashboard screenshots
-|                   
-└── docs/                     
-        -> Documentation & recommendations
----
+├── data/
+│   ├── raw/          # Original dataset
+│   └── cleaned/      # Cleaned data
+├── notebooks/
+│   ├── 01_data_assessment.ipynb
+│   ├── 02_data_cleaning.ipynb
+│   └── 03_eda_visualizations.ipynb
+├── sql/
+│   └── netflix_analysis_queries.sql
+├── dashboard/
+│   └── Netflix_Dashboard.pbix
+├── visuals/
+│   └── All charts & screenshots
+└── docs/
+    └── Documentation & recommendations
+```
 
 ## 📊 Key Insights & Visualizations
 
